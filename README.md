@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente desenvolvendo com Java e Angular.
-- 📚 Estudando sobre Arquiteturas, Docker e microserviços.
+- 📚 Estudando sobre Arquiteturas, Docker e Microserviços.
 
 <div>
   <a href="https://github.com/dayanedol">
