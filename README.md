@@ -1,8 +1,8 @@
 ### Olá aqui é a Dayane, seja bem vindo!
 
 
-- 💻 Atualmente desenvolvendo backend com Java e aprendendo Angular no Front.
-- 📚 Estudando sobre Arquiteturas, Docker e Microserviços.
+- 💻 Atualmente desenvolvendo backend com Java e aprendendo Angular para o Front.
+- 📚 Estudando sobre Arquiteturas, Docker, Kubernetes, Filas de Mensageria(RabbitMQ e Kafka) e Microserviços.
 
 <div>
   <a href="https://github.com/dayanedol">
