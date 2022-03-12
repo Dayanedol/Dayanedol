@@ -1,7 +1,7 @@
 ### Olá aqui é a Dayane, seja bem vindo!
 
 
-- 💻 Atualmente desenvolvendo com Java e Angular.
+- 💻 Atualmente desenvolvendo backend com Java.
 - 📚 Estudando sobre Arquiteturas, Docker e Microserviços.
 
 <div>
